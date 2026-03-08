@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\javeria\\source\\repos\\neural_network\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA1915B-1F90-4C12-8333-BC65A6988FCC}|neural_network\\neural_network.csproj|c:\\users\\javeria\\source\\repos\\neural_network\\neural_network\\cumulativeneuron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA1915B-1F90-4C12-8333-BC65A6988FCC}|neural_network\\neural_network.csproj|solutionrelative:neural_network\\cumulativeneuron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CumulativeNeuron.cs",
+              "DocumentMoniker": "C:\\Users\\javeria\\source\\repos\\neural_network\\neural_network\\CumulativeNeuron.cs",
+              "RelativeDocumentMoniker": "neural_network\\CumulativeNeuron.cs",
+              "ToolTip": "C:\\Users\\javeria\\source\\repos\\neural_network\\neural_network\\CumulativeNeuron.cs",
+              "RelativeToolTip": "neural_network\\CumulativeNeuron.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T16:58:25.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\javeria\source\repos\neural_network\neural_network\bin\Debug\net10.0\neural_network.exe
+C:\Users\javeria\source\repos\neural_network\neural_network\bin\Debug\net10.0\neural_network.deps.json
+C:\Users\javeria\source\repos\neural_network\neural_network\bin\Debug\net10.0\neural_network.runtimeconfig.json
+C:\Users\javeria\source\repos\neural_network\neural_network\bin\Debug\net10.0\neural_network.dll
+C:\Users\javeria\source\repos\neural_network\neural_network\bin\Debug\net10.0\neural_network.pdb
+C:\Users\javeria\source\repos\neural_network\neural_network\obj\Debug\net10.0\neural_network.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javeria\source\repos\neural_network\neural_network\obj\Debug\net10.0\neural_network.AssemblyInfoInputs.cache
+C:\Users\javeria\source\repos\neural_network\neural_network\obj\Debug\net10.0\neural_network.AssemblyInfo.cs
+C:\Users\javeria\source\repos\neural_network\neural_network\obj\Debug\net10.0\neural_network.csproj.CoreCompileInputs.cache
+C:\Users\javeria\source\repos\neural_network\neural_network\obj\Debug\net10.0\neural_network.dll
+C:\Users\javeria\source\repos\neural_network\neural_network\obj\Debug\net10.0\refint\neural_network.dll
+C:\Users\javeria\source\repos\neural_network\neural_network\obj\Debug\net10.0\neural_network.pdb
+C:\Users\javeria\source\repos\neural_network\neural_network\obj\Debug\net10.0\neural_network.genruntimeconfig.cache
+C:\Users\javeria\source\repos\neural_network\neural_network\obj\Debug\net10.0\ref\neural_network.dll
